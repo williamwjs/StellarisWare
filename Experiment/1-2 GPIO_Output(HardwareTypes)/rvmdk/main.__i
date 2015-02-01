@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork -I..\..\..\StellarisWare -I.. -I..\..\.. -I "D:\Keil\ARM\CMSIS\Include" -I "D:\Keil\ARM\INC\Luminary" -Drvmdk -DPART_LM3S9B92 -o ".\rvmdk\main.o" --omf_browse ".\rvmdk\main.crf" --depend ".\rvmdk\main.d" "main.c"

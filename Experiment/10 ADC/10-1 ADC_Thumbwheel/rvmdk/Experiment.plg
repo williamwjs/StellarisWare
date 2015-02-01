@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\Course\Experiments\StellarisWare\Experiment\10 ADC\10-1 ADC_Thumbwheel\Experiment.uvproj
+Project File Date:  05/22/2012
+
+<h2>Output:</h2>
+Build target 'Target 1'
+linking...
+Program Size: Code=12298 RO-data=9890 RW-data=52 ZI-data=2116  
+".\rvmdk\Experiment.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\Course\\Experiments\\StellarisWare\\Experiment\\10 ADC\\10-1 ADC_Thumbwheel\\rvmdk\\Experiment.AXF" 
+Connecting: Mode=JTAG, Speed=1000000Hz

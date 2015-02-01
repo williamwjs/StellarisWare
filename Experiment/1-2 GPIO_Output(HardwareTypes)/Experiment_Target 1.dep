@@ -1,0 +1,8 @@
+Dependencies for Project 'Experiment', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4F72BF8C)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1" -I "D:\Keil\ARM\CMSIS\Include" -I "D:\Keil\ARM\INC\Luminary" -o ".\rvmdk\Startup.o" --depend ".\rvmdk\Startup.d")
+F (.\main.c)(0x4F72BF8C)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork -I..\..\..\StellarisWare -I.. -I..\..\.. -I "D:\Keil\ARM\CMSIS\Include" -I "D:\Keil\ARM\INC\Luminary" -Drvmdk -DPART_LM3S9B92 -o ".\rvmdk\main.o" --omf_browse ".\rvmdk\main.crf" --depend ".\rvmdk\main.d")
+I (..\..\..\StellarisWare\inc/hw_types.h)(0x4C6D2D44)
+I (..\..\..\StellarisWare\inc/hw_memmap.h)(0x4C6D2D44)
+I (..\..\..\StellarisWare\inc/hw_sysctl.h)(0x4C6D2D44)
+I (..\..\..\StellarisWare\inc/hw_gpio.h)(0x4C6D2D44)
+F (.\readme.txt)(0x4F72BF8C)()

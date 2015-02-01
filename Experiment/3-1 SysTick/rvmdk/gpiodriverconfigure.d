@@ -1,0 +1,15 @@
+.\rvmdk\gpiodriverconfigure.o: GPIODriverConfigure.c
+.\rvmdk\gpiodriverconfigure.o: HardwareLibrary.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\inc/hw_types.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\inc/hw_memmap.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\inc/hw_sysctl.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\inc/hw_gpio.h
+.\rvmdk\gpiodriverconfigure.o: LuminaryDriverLibrary.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\driverlib/rom.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\driverlib/rom_map.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\driverlib/debug.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\driverlib/gpio.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\driverlib/pin_map.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\driverlib/sysctl.h
+.\rvmdk\gpiodriverconfigure.o: ..\..\..\StellarisWare\driverlib/systick.h
+.\rvmdk\gpiodriverconfigure.o: GPIODriverConfigure.h
